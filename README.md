@@ -30,3 +30,5 @@ cd frontend
 npm install
 npm run dev
 \`\`\`
+
+"This line was added from an isolated branch to test Git features.
